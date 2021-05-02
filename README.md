@@ -2,7 +2,7 @@
 This application using java to develop this game.
 we made a artificial intellegence to win a game versus human. 
 Implement A Star algorithm for AI.
-_created by our group in 2020_
+_created in 2020_
 
   <h2>output</h2>
 
